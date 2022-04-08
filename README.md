@@ -1,3 +1,3 @@
-# javascript-e-book
+# JavaScript-e-book
 
-javascript 电子书
+JavaScript 电子书
