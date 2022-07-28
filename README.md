@@ -1,6 +1,6 @@
 # JavaScript-book
 
-## 前言
+## 😀 前言
 
 📚 JavaScript 书籍大全。
 
