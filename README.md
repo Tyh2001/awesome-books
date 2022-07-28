@@ -1,3 +1,3 @@
-# JavaScript-e-book
+# JavaScript-book
 
-JavaScript 电子书
+JavaScript 数据大全
