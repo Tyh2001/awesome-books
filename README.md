@@ -1,8 +1,8 @@
-# JavaScript-book
+# Awesome-books
 
 ## 😀 前言
 
-📚 JavaScript 书籍大全。
+📚 非常棒的程序员学习书籍大全。
 
 ## 🙏 贡献者
 
